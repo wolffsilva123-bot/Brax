@@ -1,0 +1,6 @@
+{
+  "name": "Pagamento via Pix — Maicon Cezar Barroso",
+  "description": "Bio site profissional para pagamento rápido e seguro via Pix para Maicon Cezar Barroso (PagSeguro S.A.).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
